@@ -1,0 +1,21 @@
+.Result {
+  text-align: center;
+  padding: 40px 0;
+
+  &__Title {
+    font-size: 40px;
+
+    span {
+      color: #6080ff;
+      font-weight: 900;
+    }
+  }
+
+  &__Smile {
+    font-size: 50px;
+  }
+
+  &__Verdict {
+
+  }
+}

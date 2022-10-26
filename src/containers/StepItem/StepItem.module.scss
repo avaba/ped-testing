@@ -1,0 +1,20 @@
+.StepItem {
+  margin: 20px 0;
+
+  &__Question {
+    padding: var(--Gap);
+    margin-bottom: var(--Gap);
+    border-radius: 5px;
+    box-shadow: var(--Shadow-Black);
+    background: linear-gradient(132.42deg, #34373F 92.97%, rgba(17, 21, 25, 0.21) 170.22%);
+    display: flex;
+
+    &_Icon {
+      margin-right: 10px;
+    }
+
+    &_Text {
+      margin: 0;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+:root {
+  --Color-Light: #ffffff;
+  --Color-Grey-Dark: #898B9F;
+  --Color-Grey-Light: #A8AEC5;
+  --Color-Blue-Dark: #1A193B;
+  --Color-Blue-Light: #393868;
+  --Color-Link: #49529F;
+  --Color-Red: #D1495B;
+  --Color-Text: #393980;
+
+  --Background: #D4D8EA;
+  --Background-Dark: #0f141b;
+  --Background-Input: #282D52;
+
+  --Blue-Gradient: linear-gradient(117.39deg, #1E213B 7.37%, #393868 80.73%);
+
+  --Shadow: -3px -3px 7px rgb(210 210 210 / 25%), 3px 3px 7px #9198b8;
+  --Shadow-Black: 3px 3px 4px #0D0F12, -3px -3px 8px rgba(208, 206, 206, 0.04);
+
+  --Shadow-Inset: inset -3px -3px 7px rgb(210 210 210 / 25%), inset 3px 3px 7px #9198b8;;
+  --Shadow-Inset-Black: inset 3px 3px 4px #0D0F12, inset -3px -3px 8px rgba(208, 206, 206, 0.04);
+}
